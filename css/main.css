@@ -134,10 +134,9 @@ PAGE ABOUT
 .profile-photo {
 	display: block;
 	max-width: 150px;
-	margin: 0 auto 30px;
+	margin: 0px auto 30px;
 	border-radius: 100%;
 }
-
 
 /********************
 PAGE CONTACT
